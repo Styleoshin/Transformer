@@ -1,6 +1,5 @@
 
-![Transformers](Transformers.jpg "https://photobest1.com/top-10-transformers-wallpaper-hd/transformers-wallpaper-hd-free-download-06/
-")
+![Transformer architecture](transformer_architecture.png "https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html")
 
 # Transformer
 In this report, I will present the work of my project on Transformer Architecture. The thesis is in French language (see thesis.pdf), but I will resume some parts to write them in the form of an article in English.
