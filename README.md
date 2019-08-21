@@ -5,7 +5,9 @@
 # Transformer
 In this report, I will present the work of my project on Transformer Architecture. The thesis is in French language (see thesis.pdf), but I will resume some parts to write them in the form of an article in English.
 
-The library used is Tensor2Tensor: https://github.com/tensorflow/tensor2tensor. The .ipynb file contains a tutorial on using this library for a translation task with Transformer.
+The library used is Tensor2Tensor: https://github.com/tensorflow/tensor2tensor. The .ipynb file contains a tutorial on using this library for a translation task with Transformer. 
+
+Link to Jupyter notebook : https://drive.google.com/open?id=1vdW5OPPphCLSaf_iiSpsuxZazscY5iyB
 
 # Abstract
 Machine translation is constantly evolving. It has allowed the world to advance whether in the field of trade or business. it have mad made it easy for many tasks, and she was able to connect people from different countries with different languages.
