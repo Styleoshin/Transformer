@@ -4,6 +4,8 @@
 # Transformer Translation Model
 In this report, I will present the work of my project on Transformer Architecture. The thesis is in French language (see thesis.pdf), but I will resume some parts to write them in the form of an article in English.
 
+The study is about transformer and it as well as its application  with a comparison with other architecture such as RNNs and CNNs.
+
 The library used is Tensor2Tensor: https://github.com/tensorflow/tensor2tensor. The .ipynb file contains a tutorial on using this library for a translation task with Transformer. 
 
 Link to Jupyter notebook : https://drive.google.com/open?id=1vdW5OPPphCLSaf_iiSpsuxZazscY5iyB
