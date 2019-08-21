@@ -8,3 +8,6 @@ The questions that arise about Transformer, why is this technology so special co
 The Transformer achieved levels of quality and performance very high, surpassing those used by Google Translation and Facebook. They had bad deficiencies and were corrected by the Transformer, while offering much better results. 
 
 The Transformer is based on a mechanism already used by older architectures, but better, called self-attention. 
+
+# Article
+I published an article about comparison of Transformer vs RNN and CNN: https://medium.com/@yacine.benaffane/transformer-vs-rnn-and-cnn-18eeefa3602b
